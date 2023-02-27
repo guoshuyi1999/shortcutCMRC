@@ -1,0 +1,9 @@
+{
+    "train_json_path": "../../data/converted/squad22_train.json",
+    "valid_json_path": "../../data/converted/squad22_dev.json",
+    "train_pkl_path": "../data/squad/bert-mask/wh/no-wh/train.pkl",
+    "valid_pkl_path": "../data/squad/bert-mask/wh/no-wh/valid.pkl",
+    "context_truncated_len": 3000,
+    "utterance_truncated_len": 100,
+    "bert": true
+}

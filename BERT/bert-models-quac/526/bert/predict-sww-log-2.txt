@@ -1,0 +1,1 @@
+Running command python test.py ../bert-models-quac/526/bert/config.json ../bert-models-quac/526/bert/model.pkl.1 ../data/quac/bert-dev-sww/valid.pkl ../bert-models-quac/526/bert/predict-sww-2.json

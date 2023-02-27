@@ -1,0 +1,161 @@
+
+"context":
+In 1963, Major League Baseball expanded the strike zone. 
+Compared to the previous season, National League walks fell 13 percent, strikeouts increased 
+six percent, the league batting average fell from .
+261 to .245, and runs fell 15 percent. Koufax, who had reduced his walks allowed per nine innings 
+to 3.4 in 1961 and 2.8 in 1962,
+reduced his walk rate further to 1.7 in 1963, which ranked fifth in the league. 
+reduced his walk rate further to 1.7 in 1963, which ranked fifth in the league. 
+
+The top pitchers of the era - Don Drysdale, Juan Marichal, Jim Bunning, Bob Gibson, Warren Spahn, 
+and above all Koufax - significantly reduced the walks 
+
+The top pitchers of the era - Don Drysdale, Juan Marichal, Jim Bunning, Bob Gibson, Warren Spahn, 
+and above all Koufax - significantly reduced the walks
+
+ -given-up-to-batters-faced ratio for 1963, and subsequent years. 
+ On May 11, Koufax no-hit the San Francisco Giants 8-0, besting future Hall of Fame pitcher Juan Marichal 
+ On May 11, Koufax no-hit the San Francisco Giants 8-0, besting future Hall of Fame pitcher Juan Marichal
+ 
+ --himself a no-hit pitcher a month later, on June 15. 
+ Koufax carried a perfect game into the eighth inning against the powerful Giants lineup, 
+ Koufax carried a perfect game into the eighth inning against the powerful Giants lineup, 
+ including future Hall of Famers Willie Mays, Willie McCovey, and Orlando Cepeda. 
+ He walked Ed Bailey on a 3-and-2 pitch in the 8th, and pinch-hitter McCovey on four pitches in the 9th, 
+ before closing out the game. 
+ As the Dodgers won the pennant, Koufax won the pitchers' Triple Crown, 
+ leading the league in wins (25), strikeouts (306) and ERA (1.88). 
+ Koufax threw 11 shutouts, setting a new post-1900 record for shutouts by a left-handed pitcher 
+ Koufax threw 11 shutouts, setting a new post-1900 record for shutouts by a left-handed pitcher 
+ 
+ that stands to this day (the previous record of 10 shutouts had been held by Carl Hubbell for 30 years). \
+ Only Bob Gibson, a right-hander, has thrown more shutouts (13) since, and that was in 1968, \"the year of the pitcher.\" 
+ 
+ Koufax won the NL MVP Award and the Hickok Belt, and was the first-ever unanimous selection for the Cy Young Award. 
+ Facing the Yankees in the 1963 World Series, Koufax beat Whitey Ford 5-2 in Game 1 and struck out 15 batters 
+ Facing the Yankees in the 1963 World Series, Koufax beat Whitey Ford 5-2 in Game 1 and struck out 15 batters -- 
+ i\ncluding the first 5, breaking Carl Erskine's decade-old record of 14 
+ (Gibson would break Koufax's record by striking out 17 Detroit Tigers in the 1968 World Series opener 
+ Gibson would break Koufax's record by striking out 17 Detroit Tigers in the 1968 World Series opener). 
+ After seeing Koufax's Game 1 performance, Yogi Berra said, \"I can see how he won 25 games. 
+ What I don't understand is how he lost five,\" to which Maury Wills responded, 
+ \"He didn't. We lost them for him.\" In Game 4, Koufax completed the Dodgers' series sweep with a 2-1 victory over Ford, 
+ clinching the Series MVP Award for his performance. CANNOTANSWER",
+
+ #############################################
+ 
+ 
+ "context": 
+ "In the early 1990s US federal agents were investigating Dr. George Zahorian, 
+ a Harrisburg, Pennsylvania physician who had been dispensing anabolic steroids and other drugs to World Wrestling Federation (WWF) wrestlers at WWF events. 
+ In 1991 Dr. Zahorian was convicted under the US federal Anti-Drug Abuse Act of 1988 which prohibited the prescription of steroids for non-therapeutic purposes. 
+ This led to WWF owner Vince McMahon Jr., who admitted to being a steroid user himself, being put on trial on charges of steroid distribution in 1994. 
+ The trial concluded with McMahon's acquittal. 
+ 
+ During this time 
+ Graham personally sued Zahorian and the WWF, 
+ Graham personally sued Zahorian and the WWF, 
+ claiming that they had forced him to take steroids to maintain his position in the company.
+ claiming that they had forced him to take steroids to maintain his position in the company. 
+ 
+ His lawsuit was unsuccessful, 
+ His lawsuit was unsuccessful, 
+ partly because he had been using steroids for a decade preceding his WWF debut. 
+ Recalling the lawsuit on a 2003 episode of WWE Confidential, 
+ he attributed the litigation to his bitterness and claimed that he was an innovator of steroid use in the organization.
+ 
+ Graham went on a public awareness campaign regarding the dangers of steroids 
+ Graham went on a public awareness campaign regarding the dangers of steroids 
+ during this time, including an appearance with McMahon on The Phil Donahue Show in 1992. 
+ During the Donahue taping Graham claimed to have witnessed WWF officials sexually abuse children. 
+ During the Donahue taping Graham claimed to have witnessed WWF officials sexually abuse children. 
+ 
+ McMahon claimed the abuse had never taken place, and 
+ 
+ Graham later admitted that he made up the allegations, hoping to extort \"hush money\" out of the WWF. 
+ Graham later admitted that he made up the allegations, hoping to extort \"hush money\" out of the WWF. 
+ 
+ In his autobiography, Graham describes making the allegations as being \"my most shameful moment, not only in the wrestling profession, but in my life\".
+ Graham wrote an apology to McMahon but received no response until his 2002 liver transplant. Five years after being inducted into the WWE Hall of Fame, 
+ Graham was released from his consultancy position in World Wrestling Entertainment.
+
+ "qas": [
+    {
+     "followup": "y",
+     "yesno": "x",
+     "question": "what disputes did he have?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0",
+     "orig_answer": {
+      "text": "Graham personally sued Zahorian and the WWF,",
+      "answer_start": 606
+     }
+    },
+    {
+     "followup": "y",
+     "yesno": "x",
+     "question": "why?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1",
+     "orig_answer": {
+      "text": "claiming that they had forced him to take steroids to maintain his position in the company.",
+      "answer_start": 696
+     }
+    },
+    {
+     "followup": "y",
+     "yesno": "n",
+     "question": "did he win the lawsuit?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2",
+     "orig_answer": {
+      "text": "His lawsuit was unsuccessful,",
+      "answer_start": 880
+     }
+    },
+    {
+     "followup": "y",
+     "yesno": "x",
+     "question": "what happened after the suit failed?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3",
+     "orig_answer": {
+      "text": "Graham went on a public awareness campaign regarding the dangers of steroids",
+      "answer_start": 1201
+     }
+    },
+    {
+     "followup": "y",
+     "yesno": "x",
+     "question": "how did the campaign do?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4",
+     "orig_answer": {
+      "text": "During the Donahue taping Graham claimed to have witnessed WWF officials sexually abuse children.",
+      "answer_start": 1444
+     }
+    },
+    {
+     "followup": "y",
+     "yesno": "n",
+     "question": "did these allegations get anywhere?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5",
+     "orig_answer": {
+      "text": "Graham later admitted that he made up the allegations, hoping to extort \"hush money\" out of the WWF.",
+      "answer_start": 1693
+     }
+    },
+    {
+     "followup": "y",
+     "yesno": "x",
+     "question": "was he able to get money from them after all?",
+     "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6",
+     "orig_answer": {
+      "text": "CANNOTANSWER",
+      "answer_start": 3332
+     }
+    }
+   ],
+   "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0"
+  }
+ ],
+ "section_title": "Disputes with the McMahons",
+ "background": "Wayne Coleman was born into a working-class family in Phoenix, Arizona on June 07, 1943. His father was from Mississippi, and his mother, of Cherokee ancestry, was from Arkansas. Coleman was attracted to weight lifting in the fifth grade. As a teenager he was an avid reader of bodybuilding magazines, his idols being Steve Reeves and John Grimek.",
+ "title": "Superstar Billy Graham"
+},

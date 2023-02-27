@@ -1,0 +1,17 @@
+Running command python test.py ../bert-models-quac/524/no-conv/config.json ../bert-models-quac/524/no-conv/model.pkl.2 ../data/quac/bert-dev-attack/valid.pkl ../bert-models-quac/524/no-conv/predict-attack-2.json
+config {'arch': 'BERT', 'model_parameters': {'embeddings': '../data/quac/embeddings.pkl', 'valid': '../data/quac/quac-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 30000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 0, 'n_prev_q': 0, 'random_seed': 524}, 'train': '../data/quac/quac-bert/train.pkl', 'train_max_len': 810}
+batch_size 2
+max_epochs 3
+n_prev_q 0
+n_prev_a 0
+self.no_question = no_question False
+ctx_emb bert
+bert：pretrained_bert
+ctx_emb bert
+config {'arch': 'BERT', 'model_parameters': {'embeddings': '../data/quac/embeddings.pkl', 'valid': '../data/quac/quac-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 30000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 0, 'n_prev_q': 0, 'random_seed': 524}, 'train': '../data/quac/quac-bert/train.pkl', 'train_max_len': 810}
+data_path ../data/quac/bert-dev-attack/valid.pkl
+<dataset.QuACDataset object at 0x7f04d01648e0>
+1
+2
+33
+config {'arch': 'BERT', 'model_parameters': {'embeddings': '../data/quac/embeddings.pkl', 'valid': '../data/quac/quac-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 30000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 0, 'n_prev_q': 0, 'random_seed': 524}, 'train': '../data/quac/quac-bert/train.pkl', 'train_max_len': 810}

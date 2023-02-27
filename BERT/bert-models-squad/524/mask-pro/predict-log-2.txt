@@ -1,0 +1,19 @@
+Running command python test.py ../bert-models-coqa/524/mask-pro/config.json ../bert-models-coqa/524/mask-pro/model.pkl.2 ../data/coqa/coqa-bert/valid.pkl ../bert-models-coqa/524/mask-pro/predict-2.json
+config {'arch': 'BERT-COQA', 'model_parameters': {'embeddings': '../data/coqa/embeddings.pkl', 'valid': '../data/coqa/coqa-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 50000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 2, 'n_prev_q': 2, 'random_seed': 524}, 'train': '../data/coqa/bert-mask/pronouns/train.pkl', 'train_max_len': 810}
+batch_size 2
+max_epochs 3
+n_prev_q 2
+n_prev_a 2
+self.no_question = no_question False
+ctx_emb bert-coqa
+bert-coqa：pretrained_bert
+bert-coqa
+ctx_emb bert-coqa
+bert-coqa
+config {'arch': 'BERT-COQA', 'model_parameters': {'embeddings': '../data/coqa/embeddings.pkl', 'valid': '../data/coqa/coqa-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 50000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 2, 'n_prev_q': 2, 'random_seed': 524}, 'train': '../data/coqa/bert-mask/pronouns/train.pkl', 'train_max_len': 810}
+data_path ../data/coqa/coqa-bert/valid.pkl
+<dataset.QuACDataset object at 0x7fb433a7a8e0>
+1
+2
+33
+config {'arch': 'BERT-COQA', 'model_parameters': {'embeddings': '../data/coqa/embeddings.pkl', 'valid': '../data/coqa/coqa-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 50000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 2, 'n_prev_q': 2, 'random_seed': 524}, 'train': '../data/coqa/bert-mask/pronouns/train.pkl', 'train_max_len': 810}

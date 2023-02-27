@@ -1,0 +1,21 @@
+{
+    "arch": "BERT",
+    "model_parameters": {
+        "embeddings": "../data/squad/embeddings.pkl",
+        "valid": "../data/squad/squad-bert/valid.pkl",
+        "batch_size": 2,
+        "max_epochs": 3,
+        "grad_accumulate_steps": 5,
+        "warmup_proportion": 0.10,
+        "t_total": 30000,
+        "fp16": false,
+        "min_window_overlap": 128,
+        "mask": "none",
+	"n_prev_a": 2,
+	"n_prev_q": 2,
+	"only_second": true,
+	"random_seed": 525
+    },
+    "train": "../data/squad/squad-bert/train.pkl",
+    "train_max_len": 810
+}

@@ -1,0 +1,344 @@
+
+    {
+     "paragraphs": [
+      {
+       "context": "
+       In May 1983, she married Nikos Karvelas, a composer, 
+       In May 1983, she married Nikos Karvelas, a composer, with whom she collaborated in 1975 and 
+       in November she gave birth to her daughter Sofia. 
+       in November she gave birth to her daughter Sofia.
+        After their marriage, she started a close collaboration with Karvelas. 
+        Since 1975, all her releases have become gold or platinum and have included songs by Karvelas. 
+        Since 1975, all her releases have become gold or platinum and have included songs by Karvelas. 
+        
+        In 1986, she participated at the Cypriot National Final for Eurovision Song Contest with the song Thelo Na Gino Star (\"I Want To Be A Star\"), taking second place. 
+        
+        This song is still unreleased up to date. 
+        In 1984, Vissi left her record company EMI Greece and signed with CBS Records Greece, which later became Sony Music Greece, a collaboration that lasted until 2013. 
+        In March 1984, she released Na 'Hes Kardia (\"If You Had a Heart\"). 
+        The album was certified gold. The following year her seventh album Kati Simveni (\"Something Is Happening\") was released which included 
+
+        one of her most famous songs, titled \"Dodeka\" [\"Twelve (O'Clock)\"] 
+        one of her most famous songs, titled \"Dodeka\" [\"Twelve (O'Clock)\"] and 
+        reached gold status selling 80.000 units. 
+        reached gold status selling 80.000 units. 
+        
+        In 1986 I Epomeni Kinisi (\"The Next Move\") was released. 
+        The album included the hit Pragmata (\"Things\") and went platinum, 
+        The album included the hit Pragmata (\"Things\") and went platinum, becoming the best selling record of the year. 
+        
+        In February 1988 she released her ninth album Tora (\"Now\") and in December the album Empnefsi! (\"Inspiration!\") which went gold. 
+        In 1988, she made her debut as a radio producer on ANT1 Radio. 
+        Her radio program was titled after one of her songs Ta Koritsia Einai Atakta (\"Girls Are Naughty\") and was aired every weekend. 
+        In the same year, she participated with the song Klaio (\"I'm Crying\") at the Greek National Final for Eurovision Song Contest, finishing third. 
+        In 1989, she released the highly successful studio album Fotia (Fire), being one of the first albums to feature western sounds. 
+        The lead single Pseftika (\"Fake\") became a big hit and the album reached platinum status, selling 180.000 copies and becoming the second best selling record of 1990. She performed at \"Diogenis Palace\" in that same year, Athens's biggest nightclub/music hall at the time. CANNOTANSWER",
+       "qas": [
+        {
+         "followup": "y",
+         "yesno": "x",
+         "question": "what happened in 1983?",
+         
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#0",
+         "orig_answer": {
+          "text": "In May 1983, she married Nikos Karvelas, a composer,",
+          "answer_start": 0
+         }
+        },
+        {
+         "followup": "m",
+         "yesno": "y",
+         "question": "did they have any children?",
+         
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#1",
+         "orig_answer": {
+          "text": "in November she gave birth to her daughter Sofia.",
+          "answer_start": 145
+         }
+        },
+        {
+         "followup": "n",
+         "yesno": "x",
+         "question": "did she have any other children?",
+         "answers": [
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          },
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          },
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          },
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          }
+         ],
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#2",
+         "orig_answer": {
+          "text": "CANNOTANSWER",
+          "answer_start": 2397
+         }
+        },
+        {
+         "followup": "m",
+         "yesno": "x",
+         "question": "what collaborations did she do with nikos?",
+         
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#3",
+         "orig_answer": {
+          "text": "Since 1975, all her releases have become gold or platinum and have included songs by Karvelas.",
+          "answer_start": 316
+         }
+        },
+        {
+         "followup": "n",
+         "yesno": "x",
+         "question": "what influences does he have in her music?",
+         "answers": [
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          },
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          },
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          },
+          {
+           "text": "CANNOTANSWER",
+           "answer_start": 2024
+          }
+         ],
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#4",
+         "orig_answer": {
+          "text": "CANNOTANSWER",
+          "answer_start": 2397
+         }
+        },
+        {
+         "followup": "y",
+         "yesno": "x",
+         "question": "what were some of the songs?",
+         "answers": [
+          {
+           "text": "Thelo Na Gino Star (\"I Want To Be A Star\"),",
+           "answer_start": 406
+          },
+          {
+           "text": "Thelo Na Gino Star (\"",
+           "answer_start": 406
+          },
+          {
+           "text": "one of her most famous songs, titled \"Dodeka\" [\"Twelve (O'Clock)\"]",
+           "answer_start": 879
+          }
+         ],
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#5",
+         "orig_answer": {
+          "text": "one of her most famous songs, titled \"Dodeka\" [\"Twelve (O'Clock)\"]",
+          "answer_start": 1077
+         }
+        },
+        {
+         "followup": "y",
+         "yesno": "x",
+         "question": "how famous was it?",
+         "answers": [
+          {
+           "text": "reached gold status selling 80.000 units.",
+           "answer_start": 950
+          },
+          {
+           "text": "reached gold status selling 80.000 units.",
+           "answer_start": 950
+          },
+          {
+           "text": "reached gold status selling 80.000 units.",
+           "answer_start": 950
+          },
+          {
+           "text": "reached gold status selling 80.000 units.",
+           "answer_start": 950
+          }
+         ],
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#6",
+         "orig_answer": {
+          "text": "reached gold status selling 80.000 units.",
+          "answer_start": 1215
+         }
+        },
+        {
+         "followup": "y",
+         "yesno": "y",
+         "question": "did she have any other famous songs?",
+         "answers": [
+          {
+           "text": "In 1986 I Epomeni Kinisi (\"The Next Move\") was released.",
+           "answer_start": 992
+          },
+          {
+           "text": "Epomeni Kinisi (\"The Next Move\") was released.",
+           "answer_start": 1002
+          },
+          {
+           "text": "Pragmata (\"Things\")",
+           "answer_start": 1076
+          },
+          {
+           "text": "The album included the hit Pragmata (\"Things\") and went platinum,",
+           "answer_start": 1049
+          }
+         ],
+         "id": "C_5ab583f64dbb47b995cf59328ea0af43_1_q#7",
+         "orig_answer": {
+          "text": "The album included the hit Pragmata (\"Things\") and went platinum,",
+          "answer_start": 1356
+         }
+        }
+       ],
+       "id": "C_5ab583f64dbb47b995cf59328ea0af43_1"
+      }
+     ],
+     "section_title": "1983-1989: Collaboration with Nikos Karvelas",
+     "background": "Anna Vissi (Greek: Anna Bisse (pronounced ['ana 'visi], locally ['an:a 'viS:i]); born 20 December 1957), also known as Anna Vishy, is a Greek Cypriot singer, songwriter, actress, television presenter, radio personality, and businesswoman.",
+     "title": "Anna Vissi"
+    },
+
+
+
+
+
+#############################################
+    
+    {
+        "paragraphs": [
+         {
+          "context": 
+          "In the early 1990s US federal agents were investigating Dr. George Zahorian, 
+          a Harrisburg, Pennsylvania physician who had been dispensing anabolic steroids and other drugs to World Wrestling Federation (WWF) wrestlers at WWF events. 
+          In 1991 Dr. Zahorian was convicted under the US federal Anti-Drug Abuse Act of 1988 which prohibited the prescription of steroids for non-therapeutic purposes. 
+          This led to WWF owner Vince McMahon Jr., who admitted to being a steroid user himself, being put on trial on charges of steroid distribution in 1994. 
+          The trial concluded with McMahon's acquittal. 
+          
+          During this time 
+          Graham personally sued Zahorian and the WWF, 
+          Graham personally sued Zahorian and the WWF, 
+          claiming that they had forced him to take steroids to maintain his position in the company.
+          claiming that they had forced him to take steroids to maintain his position in the company. 
+          
+          His lawsuit was unsuccessful, 
+          His lawsuit was unsuccessful, 
+          partly because he had been using steroids for a decade preceding his WWF debut. 
+          Recalling the lawsuit on a 2003 episode of WWE Confidential, 
+          he attributed the litigation to his bitterness and claimed that he was an innovator of steroid use in the organization.
+          
+          Graham went on a public awareness campaign regarding the dangers of steroids 
+          Graham went on a public awareness campaign regarding the dangers of steroids 
+          during this time, including an appearance with McMahon on The Phil Donahue Show in 1992. 
+          During the Donahue taping Graham claimed to have witnessed WWF officials sexually abuse children. 
+          During the Donahue taping Graham claimed to have witnessed WWF officials sexually abuse children. 
+          
+          McMahon claimed the abuse had never taken place, and 
+          
+          Graham later admitted that he made up the allegations, hoping to extort \"hush money\" out of the WWF. 
+          Graham later admitted that he made up the allegations, hoping to extort \"hush money\" out of the WWF. 
+          
+          In his autobiography, Graham describes making the allegations as being \"my most shameful moment, not only in the wrestling profession, but in my life\".
+          Graham wrote an apology to McMahon but received no response until his 2002 liver transplant. Five years after being inducted into the WWE Hall of Fame, 
+          Graham was released from his consultancy position in World Wrestling Entertainment.
+          He sold his Hall of Fame ring on eBay to help pay for medical bills and requested that he be entirely removed from the Hall of Fame after Abdullah The Butcher was inducted. 
+          Graham complained that Abdullah had never wrestled in the promotion. 
+          Graham spoke out against Linda McMahon during her 2010 Senate campaign, 
+          claiming that she was distancing herself from the racy programming that she profited from while acting as CEO for WWE. Upon learning that his liver condition had worsened, 
+          Graham reached out to apologize to the McMahons, even offering to be a spokesman for Linda McMahon's campaign. In July 2015,
+          Graham sent a letter to Vince McMahon requesting to take the position of Dusty Rhodes, who had recently died, at NXT. 
+          Graham received criticism from fans due to his timing and opportunism. He defended himself, calling his critics \"evil, sub humans\", 
+          and compared a possible reconciliation with McMahon to that of long-time WWE critic Bruno Sammartino, 
+          who reconciled with McMahon and was inducted into the WWE Hall of Fame class of 2013. CANNOTANSWER",
+          "qas": [
+           {
+            "followup": "y",
+            "yesno": "x",
+            "question": "what disputes did he have?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0",
+            "orig_answer": {
+             "text": "Graham personally sued Zahorian and the WWF,",
+             "answer_start": 606
+            }
+           },
+           {
+            "followup": "y",
+            "yesno": "x",
+            "question": "why?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1",
+            "orig_answer": {
+             "text": "claiming that they had forced him to take steroids to maintain his position in the company.",
+             "answer_start": 696
+            }
+           },
+           {
+            "followup": "y",
+            "yesno": "n",
+            "question": "did he win the lawsuit?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2",
+            "orig_answer": {
+             "text": "His lawsuit was unsuccessful,",
+             "answer_start": 880
+            }
+           },
+           {
+            "followup": "y",
+            "yesno": "x",
+            "question": "what happened after the suit failed?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3",
+            "orig_answer": {
+             "text": "Graham went on a public awareness campaign regarding the dangers of steroids",
+             "answer_start": 1201
+            }
+           },
+           {
+            "followup": "y",
+            "yesno": "x",
+            "question": "how did the campaign do?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4",
+            "orig_answer": {
+             "text": "During the Donahue taping Graham claimed to have witnessed WWF officials sexually abuse children.",
+             "answer_start": 1444
+            }
+           },
+           {
+            "followup": "y",
+            "yesno": "n",
+            "question": "did these allegations get anywhere?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5",
+            "orig_answer": {
+             "text": "Graham later admitted that he made up the allegations, hoping to extort \"hush money\" out of the WWF.",
+             "answer_start": 1693
+            }
+           },
+           {
+            "followup": "y",
+            "yesno": "x",
+            "question": "was he able to get money from them after all?",
+            "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6",
+            "orig_answer": {
+             "text": "CANNOTANSWER",
+             "answer_start": 3332
+            }
+           }
+          ],
+          "id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0"
+         }
+        ],
+        "section_title": "Disputes with the McMahons",
+        "background": "Wayne Coleman was born into a working-class family in Phoenix, Arizona on June 07, 1943. His father was from Mississippi, and his mother, of Cherokee ancestry, was from Arkansas. Coleman was attracted to weight lifting in the fifth grade. As a teenager he was an avid reader of bodybuilding magazines, his idols being Steve Reeves and John Grimek.",
+        "title": "Superstar Billy Graham"
+       },

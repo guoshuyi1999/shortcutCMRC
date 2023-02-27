@@ -1,0 +1,9 @@
+{
+    "train_json_path": "../../data/converted/coqa_train.json",
+    "valid_json_path": "../../data/converted/coqa_dev.json",
+    "train_pkl_path": "../data/coqa/bert-mask/logical/train.pkl",
+    "valid_pkl_path": "../data/coqa/bert-mask/logical/valid.pkl",
+    "context_truncated_len": 3000,
+    "utterance_truncated_len": 100,
+    "bert": true
+}

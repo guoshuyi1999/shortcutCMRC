@@ -1,0 +1,21 @@
+Running command python test.py ../bert-models-squad/526/only-frist/config.json ../bert-models-squad/526/only-frist/model.pkl.2 ../data/squad/squad-bert/valid.pkl ../bert-models-squad/526/only-frist/predict-2.json
+learning_rate 5e-05
+n_prev_q 1
+n_prev_a 1
+self.no_question = no_question False
+self.no_qt=no_qt False
+self.only_second False
+self.only_third False
+ctx_emb bert
+self.remove_ans False
+learning_rate 5e-05
+n_prev_q 1
+n_prev_a 1
+self.no_question = no_question False
+self.no_qt=no_qt False
+self.only_second False
+self.only_third False
+ctx_emb bert
+self.remove_ans False
+test
+mask

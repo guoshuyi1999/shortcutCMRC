@@ -1,0 +1,14 @@
+Running command python test.py ../bert-models-quac/525/no-qt/config.json ../bert-models-quac/525/no-qt/model.pkl.2 ../data/quac/quac-bert/valid.pkl ../bert-models-quac/525/no-qt/predict-2.json
+config {'arch': 'BERT', 'model_parameters': {'embeddings': '../data/quac/embeddings.pkl', 'valid': '../data/quac/quac-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 30000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 2, 'n_prev_q': 2, 'no_qt': True, 'random_seed': 525}, 'train': '../data/quac/quac-bert/train.pkl', 'train_max_len': 810}
+batch_size 2
+max_epochs 3
+n_prev_q 2
+n_prev_a 2
+self.no_question = no_question False
+ctx_emb bert
+bert：pretrained_bert
+ctx_emb bert
+config {'arch': 'BERT', 'model_parameters': {'embeddings': '../data/quac/embeddings.pkl', 'valid': '../data/quac/quac-bert/valid.pkl', 'batch_size': 2, 'max_epochs': 3, 'grad_accumulate_steps': 5, 'warmup_proportion': 0.1, 't_total': 30000, 'fp16': False, 'min_window_overlap': 128, 'mask': 'none', 'n_prev_a': 2, 'n_prev_q': 2, 'no_qt': True, 'random_seed': 525}, 'train': '../data/quac/quac-bert/train.pkl', 'train_max_len': 810}
+> /home/store/guoshuyi/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch/serialization.py(211)__init__()
+-> super(_open_file, self).__init__(open(name, mode))
+(Pdb) 

@@ -1,0 +1,1 @@
+Running command python test.py ../bert-models-squad/526/only-second/config.json ../bert-models-squad/526/only-second/model.pkl.2 ../data/squad/squad-bert/valid.pkl ../bert-models-squad/526/only-second/predict-2.json

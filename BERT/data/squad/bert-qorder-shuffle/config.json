@@ -1,0 +1,11 @@
+{
+    "train_json_path": "../../data/converted/squad22_train.json",
+    "valid_json_path": "../../data/converted/8.24/squad22_dev-qorder-shuffle.json",
+    "oov_as_unk": true,
+    "train_pkl_path": "../data/squad2/bert-qorder-shuffle/train.pkl",
+    "valid_pkl_path": "../data/squad2/bert-qorder-shuffle/valid.pkl",
+    "context_truncated_len": 3000,
+    "utterance_truncated_len": 100,
+    "bert": true
+}
+

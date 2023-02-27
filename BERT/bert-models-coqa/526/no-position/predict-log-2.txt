@@ -1,0 +1,21 @@
+Running command python test.py ../bert-models-coqa/526/no-position/config.json ../bert-models-coqa/526/no-position/model.pkl.2 ../data/coqa/coqa-bert/valid.pkl ../bert-models-coqa/526/no-position/predict-2.json
+learning_rate 5e-05
+n_prev_q 2
+n_prev_a 0
+self.no_question = no_question False
+self.no_qt=no_qt False
+self.only_second False
+self.only_third False
+ctx_emb bert
+self.remove_ans False
+learning_rate 5e-05
+n_prev_q 2
+n_prev_a 0
+self.no_question = no_question False
+self.no_qt=no_qt False
+self.only_second False
+self.only_third False
+ctx_emb bert
+self.remove_ans False
+test
+mask
